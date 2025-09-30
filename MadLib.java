@@ -9,6 +9,12 @@ public class Madlib {
         String verb = scanner.nextLine();
         System.out.print("Enter an adjective: ");
         String adjective = scanner.nextLine();
-        System.out.print("You are a " + adjective + noun + "who always " + verb);
+        System.out.print("Enter another noun: ");
+        String noun2 = scanner.nextLine();
+        System.out.print("Enter another verb: ");
+        String verb2 = scanner.nextLine();
+        System.out.print("Enter another adjective: ");
+        String adjective2 = scanner.nextLine();
+        System.out.print("You are a " + adjective + " " + noun + " who always " + verb + " everday. How do you do it? How does one man muster up the courage to commit such atrocities? You are not a god, yet alone a " + noun2 + "." + "You shall be cast into the depth of Helheim, denying yourself all chances of entry into Valhalla.");
     }
 }
