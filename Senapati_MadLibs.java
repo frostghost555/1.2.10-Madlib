@@ -20,6 +20,6 @@ public class Senapati_Madlibs {
         String adjective2 = scanner.nextLine();
 
         // Generate MadLib Story.
-        System.out.print("You are a " + adjective + " " + noun + " who always " + verb + " everyday. How do you do it? How does one man muster up the courage to commit such atrocities? You are not a god, yet alone a " + noun2 + ". " + "You shall be cast into the depth of Helheim, denying yourself all chances of entry into Valhalla." + " There, you will " + verb2 + " among the shadows, forever tormented by your " + adjective2 + " deeds.");
+        System.out.print("You are a " + adjective + " " + noun + " who always " + verb + " everyday. How do you do it? How does one man muster up the courage to commit such atrocities? You are not a god, yet alone a " + noun2 + ". " + "You shall be cast into the depths of Helheim, denying yourself all chances of entry into Valhalla." + " There, you will " + verb2 + " among the shadows, forever tormented by your " + adjective2 + " deeds.");
     }
 }
