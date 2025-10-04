@@ -25,6 +25,16 @@ I first implemented the program as a baseline using simple string concatenation 
 | Insert responses into the story    | 10 min                   | 15 min                |
 | Display final Mad Lib story        | 5 min                    | 5 min                 |
 
+## Example Runs
+### 1st run
+![1strun](1strun.jpg)
+
+### 2nd run
+![2ndrun](2ndrun.jpg)
+
+### 3rd run
+![3rdrun](3rdrun.jpg)
+
 ## Reflection
 I started with a baseline version using simple string concatenation to insert user input into the story. While this confirmed the basic program logic, it didn’t allow me to display the original story or use string parsing methods.  
 
